@@ -1,8 +1,4 @@
-
-const envVariables = process.env.GITHUB_TOKEN;
-console.log("env", envVariables);
-
-const GITHUB_TOKEN = '';
+const GITHUB_TOKEN = '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';
 const REPO_OWNER = 'ashikur-yestoideas';
 const REPO_NAME = 'decap-practice';
 const POSTS_PATH = 'posts';
