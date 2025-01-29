@@ -1,0 +1,18 @@
+.post-content {
+    margin-bottom: 2rem;
+}
+
+.comment {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.comment h4 {
+    margin-bottom: 0.5rem;
+}
+
+.comment small {
+    color: #6c757d;
+}
