@@ -1,5 +1,5 @@
-// const GITHUB_TOKEN = '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';
-const GITHUB_TOKEN = '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';
+
+const GITHUB_TOKEN = '';
 const REPO_OWNER = 'ashikur-yestoideas';
 const REPO_NAME = 'decap-practice';
 const POSTS_PATH = 'posts';
