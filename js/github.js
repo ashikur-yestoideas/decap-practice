@@ -1,6 +1,7 @@
-const GITHUB_TOKEN = 'YOUR_GITHUB_TOKEN';
-const REPO_OWNER = 'YOUR_GITHUB_USERNAME';
-const REPO_NAME = 'YOUR_REPO_NAME';
+// const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = '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';
+const REPO_OWNER = 'ashikur-yestoideas';
+const REPO_NAME = 'decap-practice';
 const POSTS_PATH = 'posts';
 
 let octokit;
